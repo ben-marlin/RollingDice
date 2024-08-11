@@ -1,4 +1,4 @@
-# RollingDice
+# GuessingGame
 
 ## Objectives
 
