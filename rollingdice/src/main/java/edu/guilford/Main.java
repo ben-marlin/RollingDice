@@ -7,7 +7,7 @@ public class Main {
     public static void main(String[] args) {   
         Scanner myScan = new Scanner(System.in); // creates scanner
 
-        System.out.println("Tests whether integer is even.");
+        System.out.println("Tests whether integer is even."); 
 
         System.out.print("Input value: "); // use print so it's on same line
         int value = myScan.nextInt();        // inputs value as int
